@@ -1,0 +1,106 @@
+
+# ==============================
+# Dataset and Data
+# ==============================
+data/
+dataset/
+datasets/
+Data/
+Dataset/
+*.csv
+*.zip
+*.rar
+*.7z
+
+# ==============================
+# Python Virtual Environments
+# ==============================
+venv/
+env/
+.venv/
+ENV/
+virtualenv/
+conda/
+.conda/
+anaconda/
+miniconda/
+
+# ==============================
+# Python Cache Files
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ==============================
+# Model Files (Large Files)
+# ==============================
+*.h5
+*.hdf5
+*.keras
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.onnx
+*.tflite
+
+# ==============================
+# IDE and Editors
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# OS Files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Logs and Temporary Files
+# ==============================
+*.log
+logs/
+temp/
+tmp/
+*.tmp
+
+# ==============================
+# Environment Variables
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Build and Distribution
+# ==============================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ==============================
+# TensorFlow / PyTorch Cache
+# ==============================
+.keras/
+.tensorflow/
+.torch/
+wandb/
+runs/
+
+# ==============================
+# Conda Environment Files
+# ==============================
+conda-meta/
